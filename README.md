@@ -2,7 +2,7 @@
 
 This repository is for generating datasets used in our project:
 
-Yonetani, Taniai, Barekatain, Nishimura, Kanezaki, "Path Planning using Neural A\* Search", ICML, 2021 [[paper]](https://arxiv.org/abs/2009.07476) [[project page]](https://omron-sinicx.github.io/neural-astar/)
+Ryo Yonetani\*, Tatsunori Taniai\*, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki, "Path Planning using Neural A\* Search", ICML, 2021 [[paper]](https://arxiv.org/abs/2009.07476) [[project page]](https://omron-sinicx.github.io/neural-astar/)
 
 ## Getting Started
 
