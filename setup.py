@@ -17,7 +17,7 @@ setup(name="planning_datasets_utils",
           "numpy>=1.22",   # to address a security vulnerability in numpy<= 1.21.6. Full reproducibility requires numpy==1.18.4 
           "tqdm==4.42.1",
           "natsort==7.0.1",
-          "ipython==7.13.0",
+          "ipython>=7.16.3",
           "scikit-image>=0.17.2",  # use 0.17.2 for full reproducibility
           "pandas>=1.0.3",
       ],
