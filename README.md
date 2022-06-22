@@ -12,6 +12,7 @@ Ryo Yonetani\*, Tatsunori Taniai\*, Mohammadamin Barekatain, Mai Nishimura, Asak
 
 ### Install using venv
 ```sh
+$ git submodule update --init --recursive    # if you forget --recursive option
 $ python3 -m venv venv
 $ source activate venv/bin/activate
 $ pip install -e .
